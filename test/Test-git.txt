@@ -1,0 +1,1 @@
+Estou testando funções do git, por enquanto utilizei o git init para criar um repositório.
